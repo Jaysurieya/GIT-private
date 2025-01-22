@@ -1,0 +1,2 @@
+this file is for testing delete and commit changes
+(loc: git-private)
